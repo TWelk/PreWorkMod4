@@ -35,3 +35,39 @@ table {
     color: aqua;
     background-color: gray;
   }
+
+  
+  @media screen and (max-width: 900px) {
+    main, img, table
+    {
+      width: 100%;
+    }
+  }
+
+  @media screen and (max-width: 768px) {
+    main, img, table
+    {
+      width: 100%;
+    }
+  }
+
+  @media screen and (max-width: 600px) {
+    main, table, img
+    {
+      width: 100%;
+    }
+  }
+
+  @media screen and (max-width: 480px) {
+    main, table, img,
+    {
+      width: 100%;
+    }
+  }
+
+  @media screen and (max-width: 320px) {
+    main, table, img,
+    {
+      width: 100%;
+    }
+  }
