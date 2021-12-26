@@ -59,14 +59,14 @@ table {
   }
 
   @media screen and (max-width: 480px) {
-    main, table, img,
+    main, table, img
     {
       width: 100%;
     }
   }
 
   @media screen and (max-width: 320px) {
-    main, table, img,
+    main, table, img
     {
       width: 100%;
     }
