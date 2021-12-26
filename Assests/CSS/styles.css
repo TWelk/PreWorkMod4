@@ -25,8 +25,12 @@
     color: white;
   }
 
+  .members {
+    width: 50%;
+  }
+
   li{
-    max-width:15%;
+    max-width:50%;
   }
   
   #Claudio{
@@ -57,5 +61,9 @@
 
   ul{
     list-style-position: inside;
+  }
+
+  .youtube {
+    width: 100%;
   }
 
